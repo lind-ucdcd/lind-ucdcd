@@ -1,8 +1,8 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCXacl-7wsi6yC7txKgrw5ng?sub_confirmation=1">Mehdi Azizi!</a></h1>
 <h3 align="center">A Flutter and IOS programmer who keeps you alive 😜</h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
+[![Youtube](https://img.shields.io/static/v1?label=linducdcd&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Twitter Follow](https://img.shields.io/twitter/follow/linducdcd?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/linducdcd?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: linducdcd](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/linducdcd/)][linkedin]
 
@@ -41,17 +41,6 @@
 
 ---
 
-### 📺 &ensp;Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Flutter Preview - Create iOS Pop-Up Context Menu | SwiftUI In Flutter [2021] Cupertino Conte #Shorts](https://www.youtube.com/watch?v=WE25tvK5sg8)
-- [Flutter Tutorial - Create iOS Pop-Up Context Menu | SwiftUI In Flutter [2021] Cupertino Context Menu](https://www.youtube.com/watch?v=Re9xDXDi3H8)
-- [Flutter Preview - Create iOS Action Sheet | SwiftUI in Flutter [2021] Cupertino Action Sheet #Shorts](https://www.youtube.com/watch?v=osL0m4fSJik)
-- [Flutter Tutorial - Create iOS Action Sheet | SwiftUI in Flutter [2021] Cupertino Action Sheet](https://www.youtube.com/watch?v=Fz7sSOb2yjs)
-- [Flutter Preview -  iOS Navigation Bar: Add Large Titles | SwiftUI [2021] Cupertino Navigatio #Shorts](https://www.youtube.com/watch?v=jD4EF5cBR0c)
-<!-- YOUTUBE:END -->
-
-➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
 
 ---
 
@@ -68,7 +57,7 @@
 [website]: https://johannesmilke.com
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
 [youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/JohannesMilke
+[linkedin]: https://linkedin.com/in/linducdcd
 [github]: https://github.com/JohannesMilke
 [instagram]: https://www.instagram.com/johannesmilke
 [facebook]: https://www.facebook.com/real.JohannesMilke
