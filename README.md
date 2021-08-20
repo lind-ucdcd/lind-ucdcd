@@ -54,12 +54,12 @@
 
 
 
-[website]: https://johannesmilke.com
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA?sub_confirmation=1
+[website]: https://it-courses.co.ua
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinducdcd&screen_name=linducdcd
+[youtube]: https://www.youtube.com/channel/UCXacl-7wsi6yC7txKgrw5ng?sub_confirmation=1
 [linkedin]: https://linkedin.com/in/linducdcd
-[github]: https://github.com/JohannesMilke
-[instagram]: https://www.instagram.com/johannesmilke
-[facebook]: https://www.facebook.com/real.JohannesMilke
-[medium]: https://medium.com/@JohannesMilke
-[email]: mailto:hello@johannesmilke.com
+[github]: https://github.com/lind-ucdcd
+[instagram]: https://www.instagram.com/linducdcd
+[facebook]: https://www.facebook.com/linducdcd
+[medium]: https://medium.com/@linducdcd
+[email]: mailto:info@it-courses.co.ua
