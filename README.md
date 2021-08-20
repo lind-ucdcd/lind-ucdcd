@@ -44,14 +44,6 @@
 
 ---
 
-### 📚 &ensp;Latest Medium Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ &ensp;[More Articles...](https://medium.com/@JohannesMilke)
-
 
 
 [website]: https://it-courses.co.ua
