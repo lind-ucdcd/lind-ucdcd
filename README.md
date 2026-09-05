@@ -2,7 +2,7 @@
 <h3 align="center">Startup founder · Flutter & iOS developer · Shipping products that travel the world 🌍</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge&color=2da84e&labelColor=1B5E35" alt="GitHub followers" /></a>
+  <a href="https://github.com/lind-ucdcd"><img src="https://img.shields.io/github/followers/lind-ucdcd?logo=github&style=for-the-badge&color=2da84e&labelColor=1B5E35" alt="GitHub followers" /></a>
   <a href="https://d-esim.com"><img src="https://img.shields.io/badge/Now%20building-Diva%20eSIM-5DD87A?style=for-the-badge&labelColor=1B5E35" alt="Now building: Diva eSIM" /></a>
 </p>
 
@@ -32,8 +32,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=2da84e&icon_color=5DD87A" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=2da84e" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lind-ucdcd&show_icons=true&hide_border=true&theme=transparent&title_color=2da84e&icon_color=5DD87A" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lind-ucdcd&layout=compact&hide_border=true&theme=transparent&title_color=2da84e" alt="Top languages" height="165" />
 </p>
 
 [website]: https://divateam.co
