@@ -31,11 +31,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lind-ucdcd&show_icons=true&hide_border=true&theme=transparent&title_color=2da84e&icon_color=5DD87A" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lind-ucdcd&layout=compact&hide_border=true&theme=transparent&title_color=2da84e" alt="Top languages" height="165" />
-</p>
-
-[website]: https://divateam.co
-[esim]: https://d-esim.com
-[email]: mailto:info@divateam.co
