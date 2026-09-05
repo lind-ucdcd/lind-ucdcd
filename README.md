@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://divateam.co"><img src="https://img.shields.io/badge/divateam.co-Website-2da84e?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:info@divateam.co"><img src="https://img.shields.io/badge/info@divateam.co-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/linducdcd"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### Languages and Tools
