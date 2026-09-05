@@ -1,57 +1,47 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCXacl-7wsi6yC7txKgrw5ng?sub_confirmation=1">Mehdi Azizi!</a></h1>
-<h3 align="center">A Flutter and IOS programmer who keeps you alive 😜</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://divateam.co">Mehdi Azizi</a></h1>
+<h3 align="center">Startup founder · Flutter & iOS developer · Shipping products that travel the world 🌍</h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=linducdcd&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/linducdcd?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/linducdcd?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: linducdcd](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/linducdcd/)][linkedin]
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge&color=2da84e&labelColor=1B5E35" alt="GitHub followers" /></a>
+  <a href="https://d-esim.com"><img src="https://img.shields.io/badge/Now%20building-Diva%20eSIM-5DD87A?style=for-the-badge&labelColor=1B5E35" alt="Now building: Diva eSIM" /></a>
+</p>
 
-- 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
-- 🌱 &ensp;I’m currently learning Flutter ❤️
-- 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 2 years
+- 🚀 &ensp;Founder & startup leader at [**Diva Team**][website] — a UK-based IT & digital marketing company building AI, web and mobile solutions since 2019
+- 📱 &ensp;Currently building [**Diva eSIM**][esim] — a travel eSIM platform (Flutter app · Laravel API · AWS)
+- 💙 &ensp;Flutter early adopter, shipping cross-platform apps for iOS & Android
+- 🍎 &ensp;Native iOS roots — I care about how apps *feel*, not just how they work
+- 🧰 &ensp;Wear many hats: product, mobile, backend, infrastructure, SEO & growth
+- 🤝 &ensp;Open to collaborating with founders, developers and content creators
 - ⚡ &ensp;Fun fact: I love reading & podcasts
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 📫 &ensp;How to reach me: [**info@divateam.co**][email]
 
 ### Connect With Me
 
-[<img align="left" alt="Mehdi Azizi| Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-[<img align="left" alt="Mehdi Azizi | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
-[<img align="left" alt="Mehdi Azizi | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
-[<img align="left" alt="Mehdi Azizi | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-
-<!--[<img align="left" alt="Mehdi Azizi | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
-[<img align="left" alt="Mehdi Azizi | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
-[<img align="left" alt="Mehdi Azizi | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium] -->
-
-
-<br />
-<br />
+<p align="left">
+  <a href="https://divateam.co"><img src="https://img.shields.io/badge/divateam.co-Website-2da84e?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:info@divateam.co"><img src="https://img.shields.io/badge/info@divateam.co-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ### Languages and Tools
-[<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
-[<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
-[<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][youtube]
-[<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 
-
-
-<br />
-<br />
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,swift,apple,firebase,laravel,php,aws,postman,git,github,vscode&perline=6" alt="Flutter, Dart, Swift, Apple, Firebase, Laravel, PHP, AWS, Postman, Git, GitHub, VS Code" /></a>
+</p>
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=dark&title_color=5DD87A&icon_color=5DD87A" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&title_color=2da84e&icon_color=2da84e" alt="GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=dark&title_color=5DD87A" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=2da84e" alt="Top languages" height="165" />
+  </picture>
+</p>
 
----
-
-
-
-[website]: https://it-courses.co.ua
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flinducdcd&screen_name=linducdcd
-[youtube]: https://www.youtube.com/channel/UCXacl-7wsi6yC7txKgrw5ng?sub_confirmation=1
-[linkedin]: https://linkedin.com/in/linducdcd
-[github]: https://github.com/lind-ucdcd
-[instagram]: https://www.instagram.com/linducdcd
-[facebook]: https://www.facebook.com/linducdcd
-[medium]: https://medium.com/@linducdcd
-[email]: mailto:info@it-courses.co.ua
+[website]: https://divateam.co
+[esim]: https://d-esim.com
+[email]: mailto:info@divateam.co
